@@ -12,6 +12,7 @@
     <modules>
         <module>JUnit-Assertions</module>
         <module>Stubbing-Mocking-Demo</module>
+        <module>Mockito-Annotations</module>
     </modules>
 
     <properties>
