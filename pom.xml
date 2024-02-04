@@ -11,6 +11,7 @@
 
     <modules>
         <module>JUnit-Assertions</module>
+        <module>Stubbing-Mocking-Demo</module>
     </modules>
 
     <properties>
